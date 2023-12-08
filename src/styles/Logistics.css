@@ -1,0 +1,15 @@
+.logistics{
+    margin: 120px auto;
+    font-size: 20px;
+    width: 70%;
+}
+.smaller{
+    margin-left: 70px;
+    font-size: 15px;
+}
+.logis-two-field{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 30px;
+}

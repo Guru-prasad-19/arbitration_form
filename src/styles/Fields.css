@@ -1,0 +1,44 @@
+.three-field{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* gap: 30px; */
+}
+.input-fields{
+    margin: 20px;
+    margin-left: 70px;
+    display: flex;
+    font-size: 13px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 3px;
+}
+.input-fields>input{
+    width: 250px;
+    height: 40px;
+    font-size: 15px;
+}
+.cancel-btn{
+    margin-top: 20px;
+    font-size: 15px;
+    padding: 10px 15px;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+}
+.two-field{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+.two-fields{
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+    gap: 10px;
+}
+.two-fields>p{
+    margin-left: 30px;
+}
